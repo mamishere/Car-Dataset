@@ -4,9 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 
-
-There are lots of individuals who are interested in the used car market at some points in their life because they wanted to sell their car or buy a used car. To be able to predict used cars market value we train a moddel. 
-
+There are lots of individuals who are interested in the used car market at some points in their life because they wanted to sell their car or buy a used car.
+Here there are some useful and accurate models that can predict a used car sale price with only 6% error. 
 
 ## Steps:
 
@@ -15,12 +14,10 @@ There are lots of individuals who are interested in the used car market at some 
 3. [Third and Final Step: Modeling](#step3)
 4. [Dataset](#step4)
 
-
 <a name="step1"></a>
-
 ## 1. First Organization
 
-$$matn mamad benivis$$ 
+In the first steps we'll get to know about our dataset and its fields. We'll check some statistics and plot them to get familiar with the project and its characteristics.
 ### Features
 
 - **Car_Name**
@@ -43,23 +40,21 @@ $$matn mamad benivis$$
 - **Sklean**
 - **Other Modeling Modules**
 
-
 <a name="step2"></a>
 
 ## 2. Second Step: Data Preprocessing
 
-$$matn mamad benivis$$ 
-
-
+Here we'll equip our dataset to be ready foe modeling.
 
 <a name="step3"></a>
 
 ## 3. Third and Final Step: Modeling
 
-$$matn mamad benivis$$ 
+In the last part we'll check some famous relevant regression models and choose the best model for this dataset.
 
 <a name="step4"></a>
 
 ## 4. Dataset
 
-The data we have used in this project was downloaded from <a href = "https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho" style="text-decoration:none;" target="_blank"> Kaggle</a>. It was uploaded from Cardekho.com . The dataset consists of 301 rows and 9 columns with no null values. Column data consist of independent Features. The independent features contain both categorical and numeric values.
+The data we have used in this project was downloaded from <a href = "https://www.kaggle.com/datasets/athirags/car-data" style="text-decoration:none;" target="_blank"> Kaggle</a>. 
+There are more useful information about this dataset in the notebook.
